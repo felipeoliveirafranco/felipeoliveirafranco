@@ -13,7 +13,12 @@
         <img align="center" height="80"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png">
     </a>
 </p>
+<br>
 
+<h3 align="center">Certificações</h3>
+<div align="center">
+    <img src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image01.png" /> </a>
+</div>
 <br>
 
 <h3 align="center">Skills</h3>
