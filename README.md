@@ -6,24 +6,24 @@
 
 <p align="center">
     <a href="http://lattes.cnpq.br/1120115703751866" target="_blank">
-        <img align="center" height="80"  src="https://etcaeterahome.files.wordpress.com/2020/06/9e287-logo-lattes.png">
+        <img align="center" height="50"  src="https://etcaeterahome.files.wordpress.com/2020/06/9e287-logo-lattes.png">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.researchgate.net/profile/Felipe-Franco-5" target="_blank">
-        <img align="center" height="80"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png">
+        <img align="center" height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png">
     </a>
 </p>
 <br>
 
 <h3 align="center">Certificações</h3>
 <div align="center">
-    <img src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image01.png" /> </a>
+    <img height="130" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image01.png" /> </a>
 </div>
 <br>
 
 <h3 align="center">Skills</h3>
 <br>
-<p align="center">
+<div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -37,9 +37,14 @@
     <img height="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</p>
+</div>
 <br>
 
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=felipeoliveirafranco&theme=dark&hide=issues,contribs&show_icons=true&rank_icon=github&custom_title=Felipe_Franco_Stats&show_owner=true" alt="felipefranco" height="165" width="420"/>
+</p>
+<br>
 
 <h3 align="center">Contato</h3>
 <br>
