@@ -1,23 +1,26 @@
 <h2 align="center">
     Olá! Eu sou o Felipe Franco! 
 </h2>
-<p align="center">Doutorando em Bioinformática pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME - USP), mestre em Biotecnologia aplicada à Saúde pelo Núcleo Integrado de Biotecnologia da Universidade de Mogi das Cruzes (NIB - UMC) e bacharel em Ciências Biológicas pela UMC. Possui experiência em Biologia Molecular, Machine Learning, Estatística, Linguagem R e Python.</p>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/felipe-franco-19587211a/" >
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.researchgate.net/profile/Felipe-Franco-5" >
+        <img  src="https://img.shields.io/badge/ResearchGate-74aa9c.svg?&style=for-the-badge&logo=researchgate&logoColor=white" />
+    </a>
+    <a href="http://lattes.cnpq.br/1120115703751866" >
+        <img src="https://img.shields.io/badge/Lattes-4285F4.svg?&style=for-the-badge&logo=lattes&logoColor=white" />
+    </a>
+</div>
 <br>
 
-<p align="center">
-    <a href="http://lattes.cnpq.br/1120115703751866" target="_blank">
-        <img align="center" height="50"  src="https://etcaeterahome.files.wordpress.com/2020/06/9e287-logo-lattes.png">
-    </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.researchgate.net/profile/Felipe-Franco-5" target="_blank">
-        <img align="center" height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png">
-    </a>
-</p>
+<p align="center">Doutorando em Bioinformática pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME - USP), mestre em Biotecnologia aplicada à Saúde pelo Núcleo Integrado de Biotecnologia da Universidade de Mogi das Cruzes (NIB - UMC) e bacharel em Ciências Biológicas pela UMC. Tenho experiência em Biologia Molecular, Machine Learning, Estatística, Linguagem R e Python.</p>
 <br>
 
 <h3 align="center">Certificações</h3>
 <div align="center">
-    <img height="130" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image01.png" /> </a>
+    <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image01.png" /> </a>
 </div>
 <br>
 
@@ -35,8 +38,6 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </div>
 <br>
 
@@ -44,17 +45,4 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=felipeoliveirafranco&theme=dark&hide=issues,contribs&show_icons=true&rank_icon=github&custom_title=Felipe_Franco_Stats&show_owner=true" alt="felipefranco" height="165" width="420"/>
 </p>
-<br>
 
-<h3 align="center">Contato</h3>
-<br>
-
-<p align="center">
-    <a href="https://github.com/felipeoliveirafranco" target="_blank">
-        <img  src="https://img.shields.io/badge/felipeoliveirafranco-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/felipeoliveirafranco">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/felipe-franco-19587211a/" target="_blank">
-        <img src="https://img.shields.io/badge/felipeoliveirafranco-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/felipe-franco-19587211a/">
-    </a>
-</p>
