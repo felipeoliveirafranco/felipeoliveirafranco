@@ -15,6 +15,8 @@
 <h3 align="center">Certificações</h3>
 <div align="center">
     <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image01.png" /> </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/ibm.png" /> </a>
 </div>
 <br>
 
