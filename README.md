@@ -33,8 +33,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
@@ -45,7 +43,9 @@
 
 <h3 align="center">Portfólio e GitHub Stats</h3>
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipeoliveirafranco&theme=dark&repo=portfolio" alt="felipefranco" height="165" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=felipeoliveirafranco&theme=dark&hide=issues,contribs&show_icons=true&rank_icon=github&custom_title=Felipe_Franco_Stats&show_owner=true" alt="felipefranco" height="165" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipeoliveirafranco&theme=dark&repo=portfolio" alt="felipefranco" height="165" width="420"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=felipeoliveirafranco&theme=dark&hide=issues,contribs&show_icons=true&rank_icon=github&custom_title=Felipe_Franco_Stats&show_owner=true" alt="felipefranco" height="165" width="420"/>
 </p>
 
