@@ -13,18 +13,16 @@
 <br>
 
 <h3 align="center">Certificações</h3>
+<br>
 <p align="center">
     <a href='https://www.credly.com/badges/8d926b3a-61bf-4ae2-9e17-736c062e9ef5?source=linked_in_profile' target="_blank"> 
-        <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image01.png" /> 
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image01.png"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://courses.cognitiveclass.ai/certificates/a4ad0cc4bf03405799e5ebb723e59a80' target="_blank"> 
-        <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/ibm.png" /> 
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/ibm.png"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://www.efset.org/cert/DsJ68K' target="_blank"> 
-        <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image.png" /> 
-    </a>
+        <img height="100" src="https://github.com/felipeoliveirafranco/felipeoliveirafranco/blob/main/image.png"></a>
 </p>
 <br>
 
@@ -45,8 +43,9 @@
 </div>
 <br>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Portfólio e GitHub Stats</h3>
 <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=felipeoliveirafranco&theme=dark&repo=portfolio" alt="felipefranco" height="165" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api?username=felipeoliveirafranco&theme=dark&hide=issues,contribs&show_icons=true&rank_icon=github&custom_title=Felipe_Franco_Stats&show_owner=true" alt="felipefranco" height="165" width="420"/>
 </p>
 
