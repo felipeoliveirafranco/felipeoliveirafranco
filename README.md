@@ -43,8 +43,7 @@
 
 <h3 align="center">Portfólio e GitHub Stats</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=felipeoliveirafranco&theme=dark&repo=portfolio" alt="felipefranco" height="165" width="420"/>
-</p>
+<a href="https://github.com/felipeoliveirafranco/portfolio" target="_blank"> <img  src="https://github-readme-stats.vercel.app/api/pin/?username=felipeoliveirafranco&theme=dark&repo=portfolio" height="165" width="420" /></a>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=felipeoliveirafranco&theme=dark&hide=issues,contribs&show_icons=true&rank_icon=github&show_owner=true" alt="felipefranco" height="165" width="420"/>
 </p>
