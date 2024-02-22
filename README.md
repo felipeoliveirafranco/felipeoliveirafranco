@@ -9,7 +9,7 @@
 </div>
 <br>
 
-<p align="center">Doutorando em Bioinformática pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME - USP), mestre em Biotecnologia aplicada à Saúde pelo Núcleo Integrado de Biotecnologia da Universidade de Mogi das Cruzes (NIB - UMC) e bacharel em Ciências Biológicas pela UMC. Tenho experiência em Biologia Molecular, Machine Learning, Estatística, Linguagem R e Python.</p>
+<p align="center">Doutor em Bioinformática pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME - USP), Mestre em Biotecnologia aplicada à Saúde pelo Núcleo Integrado de Biotecnologia da Universidade de Mogi das Cruzes (NIB - UMC) e Bacharel em Ciências Biológicas pela UMC. Tenho experiência em Biologia Molecular, Machine Learning, Estatística, Linguagem R e Python.</p>
 <br>
 
 <h3 align="center">Certificações</h3>
